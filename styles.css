@@ -1,1 +1,27 @@
-/* Write your CSS here! */
+body {
+    background-color: yellow;
+ }
+ 
+ p {
+     color: green;
+ }
+ 
+ h1 {
+   font-size: 36px;
+ }
+ 
+ /* h1, h2, ol, p {
+    text-align: center;
+ } */
+ 
+ .center {
+    text-align: center;
+ }
+ 
+ #cool-text {
+     color: blue;
+ }
+ 
+ #cool-color {
+    color: hotpink;
+ }
