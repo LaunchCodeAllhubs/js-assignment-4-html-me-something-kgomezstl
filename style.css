@@ -1,5 +1,6 @@
 body {
-    background-color: yellow;
+    background-color: black;
+
  }
  
  p {
@@ -8,6 +9,8 @@ body {
  
  h1 {
    font-size: 36px;
+   color: green;
+
  }
  
  /* h1, h2, ol, p {
@@ -16,6 +19,7 @@ body {
  
  .center {
     text-align: center;
+    text-align: Record;
  }
  
  #cool-text {
@@ -25,3 +29,5 @@ body {
  #cool-color {
     color: hotpink;
  }
+
+ 
