@@ -7,6 +7,7 @@ body {
  
  p {
      color: green;
+     text-align: left;
  }
  
  h1 {
@@ -15,21 +16,26 @@ body {
 
  }
  
- /* h1, h2, ol, p {
-    text-align: center;
- } */
+ h2 {
+   font-size: 28px;
+   color: green; 
+   text-align: center;
+ }
+
  
  .center {
     text-align: center;
 
  }
  
- #cool-text {
-     color: blue;
- }
- 
- #cool-color {
-    color: hotpink;
+ .Record {
+   align-content: center ;
  }
 
- 
+ footer {
+   height: auto;
+   padding: 20px;
+   margin: 0px;
+   text-align: center;
+   
+}
