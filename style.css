@@ -1,0 +1,41 @@
+
+body {
+   background-color: black; 
+
+ }
+ 
+ 
+ p {
+     color: green;
+     text-align: left;
+ }
+ 
+ h1 {
+   font-size: 36px;
+   color: green;
+
+ }
+ 
+ h2 {
+   font-size: 28px;
+   color: green; 
+   text-align: center;
+ }
+
+ 
+ .center {
+    text-align: center;
+
+ }
+ 
+ .Record {
+   align-content: center ;
+ }
+
+ footer {
+   height: auto;
+   padding: 20px;
+   margin: 0px;
+   text-align: center;
+   
+}
