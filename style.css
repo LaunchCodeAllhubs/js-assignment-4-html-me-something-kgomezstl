@@ -1,7 +1,9 @@
+
 body {
-    background-color: black;
+   background-color: black; 
 
  }
+ 
  
  p {
      color: green;
@@ -19,7 +21,7 @@ body {
  
  .center {
     text-align: center;
-    text-align: Record;
+
  }
  
  #cool-text {
